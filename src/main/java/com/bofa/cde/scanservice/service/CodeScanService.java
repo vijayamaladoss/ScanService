@@ -11,6 +11,8 @@ import javax.annotation.PreDestroy;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
+
+
 @Service
 public class CodeScanService {
 
